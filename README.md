@@ -6,8 +6,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/mrsteph3/SudokuRE?style=for-the-badge)
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
+![GitHub last commit](https://img.shields.io/github/last-commit/mrsteph3/SudokuRE?style=for-the-badge)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
