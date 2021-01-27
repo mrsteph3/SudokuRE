@@ -24,8 +24,7 @@
 
   <h3 align="center">SudokuRE </h3>
   <p align="center">    A Python GUI Sudoku Game
-    <br />    <a href="https://github.com/mrsteph3/SudokuRE/issues">Report Bug</a>
-    ·    <a href="https://github.com/mrsteph3/SudokuRE/issues">Request Feature</a>
+    <br /><a href="https://github.com/mrsteph3/SudokuRE/issues">Request Feature</a>
   </p></p>
 
 
