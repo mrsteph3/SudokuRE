@@ -47,7 +47,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+This is a python GUI application made with Pygame to play sudoku games and solve puzzles.
 ### Built With
 * []()Python3
 
